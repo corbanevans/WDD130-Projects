@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Bebas+Neue&display=swap');
+
+
+
+
 #content
 {
     max-width: 1600px;
@@ -8,17 +13,20 @@ body
 {
     background-color: #5F7367;
     margin: 0 auto;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 header
 {
     background-color: #550C18;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 nav a:hover
 {
     background-color: #274690;
     color: white;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 .book, .join 
@@ -26,12 +34,14 @@ nav a:hover
     background-color: #0B6E4F;
     color: white;
     text-decoration: none;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 .book:hover, .join:hover
 {
     background-color: #274690;
     color: white;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 
@@ -40,6 +50,7 @@ nav a
     text-align: center;
     color: white;
     text-decoration: none;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 #hero-msg h1, #hero-msg h4
@@ -55,6 +66,7 @@ nav a
 main section
 {
     text-align: center;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 #background
@@ -66,39 +78,52 @@ main section
 .msg
 {
     background-color: #274690;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 footer
 {
     background-color: #550C18;
     color: white;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 footer a
 {
     color: white;
     text-decoration: none;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 footer a:hover
 {
     color: #274690;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 footer p
 {
     font-size: 1.2em;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 footer p a:hover
 {
     text-decoration: underline;
+    font-family: 'Abyssinica SIL', serif;
 }
 
 .home-title
 {
     color: white;
+    font-family: 'Bebas Neue', cursive;
 }
+
+h1
+{
+    font-family: 'Bebas Neue', cursive;
+}
+
 
 h4
 {
@@ -108,6 +133,7 @@ h4
 .msg h2
 {
     color: white;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .msg p
