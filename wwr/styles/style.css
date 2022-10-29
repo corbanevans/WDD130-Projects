@@ -13,7 +13,7 @@ body
 {
     background-color: #5F7367;
     margin: 0 auto;
-    font-family: 'Abyssinica SIL', serif;
+    font-family: 'Abyssinica SIL', serif, Times;
     font-size: 22px;
     padding: 0;
 }
@@ -21,14 +21,12 @@ body
 header
 {
     background-color: #550C18;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 nav a:hover
 {
     background-color: #274690;
     color: white;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 .book, .join 
@@ -36,7 +34,6 @@ nav a:hover
     background-color: #0B6E4F;
     color: white;
     text-decoration: none;
-    font-family: 'Abyssinica SIL', serif;
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
@@ -47,7 +44,6 @@ nav a:hover
 {
     background-color: #274690;
     color: white;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 
@@ -56,7 +52,6 @@ nav a
     text-align: center;
     color: white;
     text-decoration: none;
-    font-family: 'Abyssinica SIL', serif;
     padding: 35px;
 }
 
@@ -73,7 +68,7 @@ nav a
 main section
 {
     text-align: center;
-    font-family: 'Abyssinica SIL', serif;
+    font-family: 'Abyssinica SIL', serif, Times;
 }
 
 #background
@@ -85,7 +80,6 @@ main section
 .msg
 {
     background-color: #274690;
-    font-family: 'Abyssinica SIL', serif;
     line-height: 1.5em;
     padding: 35px;
 }
@@ -94,7 +88,6 @@ footer
 {
     background-color: #550C18;
     color: white;
-    font-family: 'Abyssinica SIL', serif;
     padding: 25px 50px;
     margin-top: 200px;
 }
@@ -103,31 +96,27 @@ footer a
 {
     color: white;
     text-decoration: none;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 footer a:hover
 {
     color: #274690;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 footer p
 {
     font-size: 1.2em;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 footer p a:hover
 {
     text-decoration: underline;
-    font-family: 'Abyssinica SIL', serif;
 }
 
 .home-title
 {
     color: white;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive, Cambria;
     font-size: 2em;
     margin-top: 50px;
 }
@@ -145,7 +134,7 @@ h4
 .msg h2
 {
     color: white;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive, Cambria;
 }
 
 .msg p
