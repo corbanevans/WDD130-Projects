@@ -25,6 +25,12 @@ header
     grid-template-columns: 150px auto;
 }
 
+.home-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
 nav a:hover
 {
     background-color: #274690;
