@@ -276,6 +276,7 @@ card-img:hover
 .container:hover .card-img
 {
     opacity: 0.3;
+    background-color: #274690;
 }
 
 .container:hover .icon
