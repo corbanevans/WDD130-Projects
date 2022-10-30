@@ -282,6 +282,7 @@ card-img:hover
 .container:hover .icon
 {
     opacity: 1;
+    background-color: #274690;
 }
 
 .card-img 
