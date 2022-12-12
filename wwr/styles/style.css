@@ -352,6 +352,9 @@ main section img
         font-size: 25px;
         color: white;
     }
+    .location-title{
+        font-size: 25px;
+    }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
         width: 60%;
