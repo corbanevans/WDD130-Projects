@@ -34,6 +34,7 @@ header
 #hero-container{
     position: relative;
     text-align: center;
+    width: 100%;
 }
 
 .location-title{
