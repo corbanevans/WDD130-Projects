@@ -47,6 +47,12 @@
     justify-content: space-evenly;
     align-items: center;
   }
+  .aboutme-style{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
 
   #plan{
     width: 200px;
