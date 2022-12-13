@@ -84,7 +84,7 @@
     }
 
     .grad {
-        background-image: linear-gradient(red, yellow);
+        background-image: linear-gradient(#D98D30, #D96D30);
     }
 
   body {
