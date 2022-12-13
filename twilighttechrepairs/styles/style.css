@@ -194,6 +194,10 @@ footer .social img
     flex-direction: row;
 }
 
+.social {
+    flex-direction: row;
+    justify-content: center;
+}
 
 #logo_link
 {
