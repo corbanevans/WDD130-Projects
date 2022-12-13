@@ -41,6 +41,13 @@
     width: 200px;
   }
 
+  .contactus-style{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
   .logo
     {
     width: 80px;
