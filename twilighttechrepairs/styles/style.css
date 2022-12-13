@@ -81,7 +81,6 @@
     background: var(--accent1-color);
   }
   header {
-    padding: 1em;
     color: var(--paragraph-color-on-color);
     background-color: var(--paragraph-background-color);
     display: grid;
@@ -193,7 +192,6 @@ footer .social img
 
 #logo_link
 {
-    padding-top: 5px;
     justify-self: center;
     align-self: center;
 }
