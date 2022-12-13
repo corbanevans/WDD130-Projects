@@ -35,7 +35,7 @@
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;   
-    padding: 0.01em 16px;
+    padding: 0.01em 1em .01em 1em;
   }
 
   .card-icon{
@@ -186,7 +186,7 @@
     background-color: #358A8A;
     color: white;
     padding: 0px 50px;
-    margin-top: 200px;
+    margin-top: 0px;
     display: flex;
     justify-content: space-around;
     align-items: center;
