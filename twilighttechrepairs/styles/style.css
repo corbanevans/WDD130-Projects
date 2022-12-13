@@ -24,7 +24,16 @@
     --nav-hover-background-color: #D96E30;
   }
 
+  .card {
+    border: red;
+  }
 
+  .card-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 
   .logo
     {
