@@ -81,8 +81,8 @@
     background: var(--accent1-color);
   }
   header {
-    color: var(--paragraph-color-on-color);
-    background-color: var(--paragraph-background-color);
+    color: white;
+    background-color: white;
     display: grid;
     grid-template-columns: 150px auto;
   }
