@@ -37,6 +37,10 @@
     padding: 0.01em 16px;
   }
 
+  .card-icon{
+    width: 200px;
+  }
+
   .logo
     {
     width: 80px;
